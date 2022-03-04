@@ -69,6 +69,6 @@ and
 
 [<img src="./images/fv17.png" width="450" height="60"/>](./images/fv17.png)
 
-The above two equations give the steady state amplitude of vibration of two masses respectively as a function of forcing frequency Ï‰.
+The above two equations give the steady state amplitude of vibration of two masses respectively as a function of forcing frequency &omega;.
 
 </div>

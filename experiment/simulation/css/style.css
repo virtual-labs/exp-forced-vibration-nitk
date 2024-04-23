@@ -9,6 +9,11 @@
   position: relative;
   padding: 0.5rem 0.5rem 0.5rem 0.5rem;
 }
+#titleincanvas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 
 .title-div {
   display: flex;

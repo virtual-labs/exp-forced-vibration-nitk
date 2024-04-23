@@ -10,11 +10,11 @@ em:current font size
 /* **************************** */
 
 @media (max-width: 1200em) {
-  #titleincanvas {
+  /* #titleincanvas {
     position: absolute;
     left: 286px;
     top: 39px;
-  }
+  } */
 }
 
 /* **************************** */
@@ -56,11 +56,11 @@ em:current font size
   #variables {
     width: 100%;
   }
-  #titleincanvas {
+  /* #titleincanvas {
     position: absolute;
     left: 380px;
     top: 47px;
-  }
+  } */
 }
 
 /* **************************** */
@@ -141,11 +141,11 @@ em:current font size
   .footer {
     margin-bottom: 7rem;
   }
-  #titleincanvas {
+  /* #titleincanvas {
     position: absolute;
     left: 290px;
     top: 41px;
-  }
+  } */
 }
 
 /* **************************** */
@@ -165,11 +165,11 @@ em:current font size
     border: none;
     border-top: 1px solid rgba(177, 176, 176, 0.855);
   }
-  #titleincanvas {
+  /* #titleincanvas {
     position: absolute;
     left: 277px;
     top: 40px;
-  }
+  } */
 }
 
 /* **************************** */
@@ -210,11 +210,11 @@ em:current font size
     border: none;
     border-top: 1px solid rgba(177, 176, 176, 0.855);
   }
-  #titleincanvas {
+  /* #titleincanvas {
     position: absolute;
     left: 206px;
     top: 43px;
-  }
+  } */
 }
 
 
@@ -223,11 +223,11 @@ em:current font size
     width: 100%;
     height: auto;
   }
-  #titleincanvas {
+  /* #titleincanvas {
     position: absolute;
     left: 76px;
     top: 39px;
-  }
+  } */
 }
 
 /* **************************** */

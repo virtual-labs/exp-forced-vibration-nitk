@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "A motor of mass 1000 Kg is kept on a foundation of stiffness 100 N/mm, then &omega;<sub>n</sub> in rad/s is",
+      "answers": {
+        "a": "1000",
+        "b": "100",
+        "c": "10",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Theoretically the number of modes of a steel scale held at one end (cantilever)",
+      "answers": {
+        "a": "0",
+        "b": "&infin;",
+        "c": "1",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "For a MDOF system roots of frequency equation",
+      "answers": {
+        "a": "Are Eigen Values",
+        "b": "Do not exist",
+        "c": "Are all equal",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Lagrange's equation is used to find ____ of a MDOF",
+      "answers": {
+        "a": "Modes",
+        "b": "Frequencies",
+        "c": "Governing Differential Equation",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "For effective isolation, frequency ratio should be greater than",
+      "answers": {
+        "a": "0.707",
+        "b": "1.414",
+        "c": "1",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    }
+  ]
+}

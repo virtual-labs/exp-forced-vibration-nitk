@@ -1,0 +1,1071 @@
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/Input.js
+   1:7   warning  'NumberInput' is defined but never used  no-unused-vars
+  21:27  warning  'createInput' is not defined             no-undef
+  32:31  warning  'createSlider' is not defined            no-undef
+  55:13  warning  'position_graph1' is not defined         no-undef
+  56:13  warning  'position_graph2' is not defined         no-undef
+  73:9   warning  'push' is not defined                    no-undef
+  75:9   warning  'fill' is not defined                    no-undef
+  76:9   warning  'strokeWeight' is not defined            no-undef
+  77:9   warning  'textFont' is not defined                no-undef
+  78:9   warning  'textSize' is not defined                no-undef
+  79:9   warning  'text' is not defined                    no-undef
+  81:9   warning  'pop' is not defined                     no-undef
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/MOMscript.js
+   22:10  warning  'point' is defined but never used       no-unused-vars
+   30:10  warning  'pointtrans' is defined but never used  no-unused-vars
+   38:10  warning  'pointdisp' is defined but never used   no-unused-vars
+   88:10  warning  'pointdist' is defined but never used   no-unused-vars
+   94:10  warning  'pointjoin' is defined but never used   no-unused-vars
+  109:10  warning  'pointtrace' is defined but never used  no-unused-vars
+  127:10  warning  'deg' is defined but never used         no-unused-vars
+  137:10  warning  'drawrect' is defined but never used    no-unused-vars
+  157:10  warning  'drawArrow' is defined but never used   no-unused-vars
+  173:10  warning  'signof' is defined but never used      no-unused-vars
+  179:10  warning  'roundd' is defined but never used      no-unused-vars
+  185:10  warning  'plotgraph' is defined but never used   no-unused-vars
+  195:1   warning  'i' is not defined                      no-undef
+  197:7   warning  'i' is not defined                      no-undef
+  199:20  warning  'i' is not defined                      no-undef
+  199:27  warning  'i' is not defined                      no-undef
+  200:2   warning  'i' is not defined                      no-undef
+  201:6   warning  'i' is not defined                      no-undef
+  204:3   warning  'i' is not defined                      no-undef
+  204:5   warning  'i' is not defined                      no-undef
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/buttonIcon.js
+   1:7  warning  'Button' is defined but never used  no-unused-vars
+  18:9  warning  'image' is not defined              no-undef
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/dpi.js
+  42:10  error  Parsing error: Identifier 'fix_dpi' has already been declared
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/dynamic_graphs.js
+   1:7   warning  'DynamicGraph' is defined but never used  no-unused-vars
+  25:25  warning  'map' is not defined                      no-undef
+  27:21  warning  'map' is not defined                      no-undef
+  27:46  warning  'spring1' is not defined                  no-undef
+  39:9   warning  'push' is not defined                     no-undef
+  42:13  warning  'beginShape' is not defined               no-undef
+  43:13  warning  'stroke' is not defined                   no-undef
+  44:13  warning  'strokeWeight' is not defined             no-undef
+  45:13  warning  'noFill' is not defined                   no-undef
+  48:17  warning  'vertex' is not defined                   no-undef
+  50:13  warning  'endShape' is not defined                 no-undef
+  53:9   warning  'stroke' is not defined                   no-undef
+  54:9   warning  'strokeWeight' is not defined             no-undef
+  55:9   warning  'line' is not defined                     no-undef
+  56:9   warning  'line' is not defined                     no-undef
+  58:9   warning  'strokeWeight' is not defined             no-undef
+  59:9   warning  'fill' is not defined                     no-undef
+  60:9   warning  'textSize' is not defined                 no-undef
+  61:9   warning  'text' is not defined                     no-undef
+  62:9   warning  'translate' is not defined                no-undef
+  63:9   warning  'rotate' is not defined                   no-undef
+  63:16  warning  'radians' is not defined                  no-undef
+  64:9   warning  'text' is not defined                     no-undef
+  66:9   warning  'pop' is not defined                      no-undef
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/event_handling.js
+   1:10  warning  'handleEvents' is defined but never used  no-unused-vars
+   5:9   warning  'button1' is not defined                  no-undef
+   5:20  warning  'mouseX' is not defined                   no-undef
+   5:28  warning  'mouseY' is not defined                   no-undef
+   5:39  warning  'page1' is not defined                    no-undef
+   7:13  warning  'animation' is not defined                no-undef
+   8:13  warning  'noLoop' is not defined                   no-undef
+   9:13  warning  'button1' is not defined                  no-undef
+   9:28  warning  'play' is not defined                     no-undef
+  10:13  warning  'button1' is not defined                  no-undef
+  11:13  warning  'animation' is not defined                no-undef
+  12:13  warning  'touch' is not defined                    no-undef
+  15:13  warning  'loop' is not defined                     no-undef
+  16:13  warning  'button1' is not defined                  no-undef
+  16:28  warning  'pause' is not defined                    no-undef
+  17:13  warning  'button1' is not defined                  no-undef
+  18:13  warning  'animation' is not defined                no-undef
+  19:13  warning  'touch' is not defined                    no-undef
+  22:9   warning  'button2' is not defined                  no-undef
+  22:20  warning  'mouseX' is not defined                   no-undef
+  22:28  warning  'mouseY' is not defined                   no-undef
+  22:39  warning  'page1' is not defined                    no-undef
+  23:9   warning  'position_graph1' is not defined          no-undef
+  24:9   warning  'position_graph2' is not defined          no-undef
+  25:9   warning  'page1' is not defined                    no-undef
+  26:9   warning  'page2' is not defined                    no-undef
+  33:9   warning  'button3' is not defined                  no-undef
+  33:20  warning  'mouseX' is not defined                   no-undef
+  33:28  warning  'mouseY' is not defined                   no-undef
+  33:39  warning  'page2' is not defined                    no-undef
+  34:9   warning  'position_graph1' is not defined          no-undef
+  35:9   warning  'position_graph2' is not defined          no-undef
+  36:9   warning  'page1' is not defined                    no-undef
+  37:9   warning  'page2' is not defined                    no-undef
+  42:9   warning  'button4' is not defined                  no-undef
+  42:20  warning  'mouseX' is not defined                   no-undef
+  42:28  warning  'mouseY' is not defined                   no-undef
+  42:39  warning  'page2' is not defined                    no-undef
+  43:9   warning  'position_graph1' is not defined          no-undef
+  44:9   warning  'position_graph2' is not defined          no-undef
+  45:9   warning  'page3' is not defined                    no-undef
+  46:9   warning  'page2' is not defined                    no-undef
+  51:9   warning  'button5' is not defined                  no-undef
+  51:20  warning  'mouseX' is not defined                   no-undef
+  51:27  warning  'mouseY' is not defined                   no-undef
+  51:37  warning  'page3' is not defined                    no-undef
+  52:9   warning  'position_graph1' is not defined          no-undef
+  53:9   warning  'position_graph2' is not defined          no-undef
+  54:9   warning  'page2' is not defined                    no-undef
+  55:9   warning  'page3' is not defined                    no-undef
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/graph.js
+   1:7   warning  'Graph' is defined but never used  no-unused-vars
+  25:9   warning  't' is not defined                 no-undef
+  29:9   warning  'push' is not defined              no-undef
+  34:9   warning  'beginShape' is not defined        no-undef
+  35:9   warning  'stroke' is not defined            no-undef
+  36:9   warning  'strokeWeight' is not defined      no-undef
+  37:9   warning  'noFill' is not defined            no-undef
+  42:24  warning  'map' is not defined               no-undef
+  42:43  warning  'max' is not defined               no-undef
+  45:13  warning  'vertex' is not defined            no-undef
+  48:17  warning  'vertex' is not defined            no-undef
+  52:9   warning  'endShape' is not defined          no-undef
+  54:9   warning  'stroke' is not defined            no-undef
+  55:9   warning  'strokeWeight' is not defined      no-undef
+  56:9   warning  'line' is not defined              no-undef
+  57:9   warning  'line' is not defined              no-undef
+  58:9   warning  'line' is not defined              no-undef
+  60:9   warning  'fill' is not defined              no-undef
+  61:9   warning  'strokeWeight' is not defined      no-undef
+  62:9   warning  'textSize' is not defined          no-undef
+  63:9   warning  'text' is not defined              no-undef
+  64:9   warning  'translate' is not defined         no-undef
+  65:9   warning  'rotate' is not defined            no-undef
+  65:16  warning  'radians' is not defined           no-undef
+  66:9   warning  'text' is not defined              no-undef
+  68:9   warning  'pop' is not defined               no-undef
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/jquery-3.6.0.js
+     17:44  warning  'module' is not defined                                                    no-undef
+     25:5   warning  'module' is not defined                                                    no-undef
+    142:13  warning  'Symbol' is already defined as a built-in global variable                  no-redeclare
+    717:22  warning  Unexpected control character(s) in regular expression: \x1f, \x1f          no-control-regex
+    779:50  warning  Empty block statement                                                      no-empty
+   2185:38  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3205:16  warning  Unnecessary escape character: \/                                           no-useless-escape
+   3507:52  warning  Empty block statement                                                      no-empty
+   4584:21  warning  Empty block statement                                                      no-empty
+   5051:28  warning  Unnecessary escape character: \/                                           no-useless-escape
+   5268:19  warning  Empty block statement                                                      no-empty
+   6564:25  warning  Empty block statement                                                      no-empty
+   9171:17  warning  Empty block statement                                                      no-empty
+   9819:28  warning  'urlAnchor.href' is assigned to itself                                     no-self-assign
+  10269:17  warning  Empty block statement                                                      no-empty
+  11162:39  warning  'define' is not defined                                                    no-undef
+  11163:5   warning  'define' is not defined                                                    no-undef
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/jquery-ui.js
+      9:39  warning  'define' is not defined                                      no-undef
+     11:5   warning  'define' is not defined                                      no-undef
+     14:13  warning  'jQuery' is not defined                                      no-undef
+     21:7   warning  'version' is assigned a value but never used                 no-unused-vars
+    797:7   warning  'widget' is assigned a value but never used                  no-unused-vars
+    822:19  warning  Unnecessary escape character: \+                             no-useless-escape
+    822:21  warning  Unnecessary escape character: \-                             no-useless-escape
+   1365:7   warning  'position' is assigned a value but never used                no-unused-vars
+   1381:7   warning  'data' is assigned a value but never used                    no-unused-vars
+   1410:7   warning  'disableSelection' is assigned a value but never used        no-unused-vars
+   1452:23  warning  Unnecessary escape character: \-                             no-useless-escape
+   1462:39  warning  Unnecessary escape character: \%                             no-useless-escape
+   1462:63  warning  Unnecessary escape character: \%                             no-useless-escape
+   1462:87  warning  Unnecessary escape character: \%                             no-useless-escape
+   1499:61  warning  Unnecessary escape character: \%                             no-useless-escape
+   1499:85  warning  Unnecessary escape character: \%                             no-useless-escape
+   2078:29  warning  Empty block statement                                        no-empty
+   3120:63  warning  Empty block statement                                        no-empty
+   3156:7   warning  'effectsEffectBlind' is assigned a value but never used      no-unused-vars
+   3217:7   warning  'effectsEffectBounce' is assigned a value but never used     no-unused-vars
+   3309:7   warning  'effectsEffectClip' is assigned a value but never used       no-unused-vars
+   3360:7   warning  'effectsEffectDrop' is assigned a value but never used       no-unused-vars
+   3418:7   warning  'effectsEffectExplode' is assigned a value but never used    no-unused-vars
+   3523:7   warning  'effectsEffectFade' is assigned a value but never used       no-unused-vars
+   3560:7   warning  'effectsEffectFold' is assigned a value but never used       no-unused-vars
+   3639:7   warning  'effectsEffectHighlight' is assigned a value but never used  no-unused-vars
+   3683:7   warning  'effectsEffectSize' is assigned a value but never used       no-unused-vars
+   3884:7   warning  'effectsEffectScale' is assigned a value but never used      no-unused-vars
+   3929:7   warning  'effectsEffectPuff' is assigned a value but never used       no-unused-vars
+   3957:7   warning  'effectsEffectPulsate' is assigned a value but never used    no-unused-vars
+   4007:7   warning  'effectsEffectShake' is assigned a value but never used      no-unused-vars
+   4062:7   warning  'effectsEffectSlide' is assigned a value but never used      no-unused-vars
+   4127:7   warning  'effect' is already defined                                  no-redeclare
+   4133:7   warning  'effectsEffectTransfer' is assigned a value but never used   no-unused-vars
+   4209:7   warning  'focusable' is assigned a value but never used               no-unused-vars
+   4214:7   warning  'form' is assigned a value but never used                    no-unused-vars
+   4234:7   warning  'formResetMixin' is assigned a value but never used          no-unused-vars
+   4311:22  warning  Unexpected control character(s) in regular expression: \x1f  no-control-regex
+   4369:7   warning  'keycode' is assigned a value but never used                 no-unused-vars
+   4402:7   warning  'labels' is assigned a value but never used                  no-unused-vars
+   4455:7   warning  'scrollParent' is assigned a value but never used            no-unused-vars
+   4492:7   warning  'tabbable' is assigned a value but never used                no-unused-vars
+   4516:7   warning  'uniqueId' is assigned a value but never used                no-unused-vars
+   4558:7   warning  'widgetsAccordion' is assigned a value but never used        no-unused-vars
+   5187:7   warning  'safeActiveElement' is assigned a value but never used       no-unused-vars
+   5233:7   warning  'widgetsMenu' is assigned a value but never used             no-unused-vars
+   5939:13  warning  Unnecessary escape character: \-                             no-useless-escape
+   5939:15  warning  Unnecessary escape character: \[                             no-useless-escape
+   5939:30  warning  Unnecessary escape character: \^                             no-useless-escape
+   6581:30  warning  Unnecessary escape character: \-                             no-useless-escape
+   6581:32  warning  Unnecessary escape character: \[                             no-useless-escape
+   6581:47  warning  Unnecessary escape character: \^                             no-useless-escape
+   6626:7   warning  'widgetsAutocomplete' is assigned a value but never used     no-unused-vars
+   6648:7   warning  'widgetsControlgroup' is assigned a value but never used     no-unused-vars
+   7239:7   warning  'widgetsCheckboxradio' is assigned a value but never used    no-unused-vars
+   7686:7   warning  'widgetsButton' is assigned a value but never used           no-unused-vars
+   7921:51  warning  Unnecessary escape character: \-                             no-useless-escape
+   8620:23  warning  Empty block statement                                        no-empty
+   9326:18  warning  Unexpected constant condition                                no-constant-condition
+   9623:27  warning  Unnecessary escape character: \-                             no-useless-escape
+  10293:40  warning  Unnecessary escape character: \-                             no-useless-escape
+  10295:32  warning  Unnecessary escape character: \-                             no-useless-escape
+  10435:35  warning  Unnecessary escape character: \-                             no-useless-escape
+  10438:35  warning  Unnecessary escape character: \-                             no-useless-escape
+  10603:7   warning  'widgetsDatepicker' is assigned a value but never used       no-unused-vars
+  10606:7   warning  'ie' is assigned a value but never used                      no-unused-vars
+  10627:7   warning  'widgetsMouse' is assigned a value but never used            no-unused-vars
+  10835:7   warning  'plugin' is assigned a value but never used                  no-unused-vars
+  10868:7   warning  'safeBlur' is assigned a value but never used                no-unused-vars
+  12169:7   warning  'widgetsDraggable' is assigned a value but never used        no-unused-vars
+  13428:7   warning  'widgetsResizable' is assigned a value but never used        no-unused-vars
+  14383:7   warning  'widgetsDialog' is assigned a value but never used           no-unused-vars
+  14902:7   warning  'widgetsDroppable' is assigned a value but never used        no-unused-vars
+  14924:7   warning  'widgetsProgressbar' is assigned a value but never used      no-unused-vars
+  15081:7   warning  'widgetsSelectable' is assigned a value but never used       no-unused-vars
+  15399:7   warning  'widgetsSelectmenu' is assigned a value but never used       no-unused-vars
+  16098:7   warning  'widgetsSlider' is assigned a value but never used           no-unused-vars
+  16890:7   warning  'widgetsSortable' is assigned a value but never used         no-unused-vars
+  17501:33  warning  Unnecessary escape character: \-                             no-useless-escape
+  19078:15  warning  'Globalize' is not defined                                   no-undef
+  19089:11  warning  'Globalize' is not defined                                   no-undef
+  19209:7   warning  'widgetsSpinner' is assigned a value but never used          no-unused-vars
+  19265:25  warning  Empty block statement                                        no-empty
+  19268:25  warning  Empty block statement                                        no-empty
+  19507:38  warning  Unnecessary escape character: \/                             no-useless-escape
+  19507:47  warning  Unnecessary escape character: \[                             no-useless-escape
+  19507:51  warning  Unnecessary escape character: \^                             no-useless-escape
+  20132:7   warning  'widgetsTabs' is assigned a value but never used             no-unused-vars
+  20643:7   warning  'widgetsTooltip' is assigned a value but never used          no-unused-vars
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/jquery.ui.touch-punch.js
+  174:4  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/jquery.ui.touch-punch.min.js
+  81:4  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/p5.dom.js
+    29:39  warning  'define' is not defined                          no-undef
+    30:5   warning  'define' is not defined                          no-undef
+    32:13  warning  'require' is not defined                         no-undef
+   214:43  warning  'e' is defined but never used                    no-unused-vars
+   289:39  warning  Invalid typeof comparison value                  valid-typeof
+   579:20  warning  'i' is already defined                           no-redeclare
+   674:13  warning  'ran' is assigned a value but never used         no-unused-vars
+   692:18  warning  'i' is already defined                           no-redeclare
+   707:18  warning  'i' is already defined                           no-redeclare
+   796:7   warning  Move function declaration to function body root  no-inner-declarations
+   803:11  warning  Move function declaration to function body root  no-inner-declarations
+   810:12  warning  Unnecessary semicolon                            no-extra-semi
+   838:9   warning  'src' is already defined                         no-redeclare
+  1301:11  warning  'transform' is already defined                   no-redeclare
+  1582:20  warning  'prop' is already defined                        no-redeclare
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/p5.js
+      2:73    warning  'module' is not defined                                                    no-undef
+      2:128   warning  'define' is not defined                                                    no-undef
+      2:140   warning  'define' is not defined                                                    no-undef
+      2:244   warning  'global' is not defined                                                    no-undef
+      2:341   warning  'module' is defined but never used                                         no-unused-vars
+      2:348   warning  'exports' is defined but never used                                        no-unused-vars
+      2:452   warning  'require' is not defined                                                   no-undef
+      2:752   warning  'require' is not defined                                                   no-undef
+      2:819   warning  '_dereq_' is defined but never used                                        no-unused-vars
+      2:827   warning  'module' is defined but never used                                         no-unused-vars
+      2:834   warning  'exports' is defined but never used                                        no-unused-vars
+    521:2     warning  Unnecessary semicolon                                                      no-extra-semi
+   1163:66    warning  'global' is not defined                                                    no-undef
+   2210:11    warning  'ArrayBuffer' is already defined as a built-in global variable             no-redeclare
+   2210:24    warning  'DataView' is already defined as a built-in global variable                no-redeclare
+   2210:34    warning  'Uint8Array' is already defined as a built-in global variable              no-redeclare
+   2210:46    warning  'XMLHttpRequest' is already defined as a built-in global variable          no-redeclare
+   2962:12    warning  Unexpected constant condition                                              no-constant-condition
+   3038:15    warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   4803:35    warning  'value2' is assigned a value but never used                                no-unused-vars
+   5897:9     warning  'langTagCount' is assigned a value but never used                          no-unused-vars
+   6709:11    warning  'WeakMap' is already defined as a built-in global variable                 no-redeclare
+   7323:46    warning  'exports' is defined but never used                                        no-unused-vars
+   7495:29    warning  'name' is defined but never used                                           no-unused-vars
+   7500:27    warning  'dir' is defined but never used                                            no-unused-vars
+   7505:20    warning  '_dereq_' is defined but never used                                        no-unused-vars
+   7505:28    warning  'module' is defined but never used                                         no-unused-vars
+   7505:35    warning  'exports' is defined but never used                                        no-unused-vars
+   7542:40    warning  Do not access Object.prototype method 'isPrototypeOf' from target object   no-prototype-builtins
+   7554:28    warning  Unnecessary escape character: \^                                           no-useless-escape
+   7620:21    warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   7629:20    warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   7718:49    warning  Do not access Object.prototype method 'isPrototypeOf' from target object   no-prototype-builtins
+   7720:57    warning  Do not access Object.prototype method 'isPrototypeOf' from target object   no-prototype-builtins
+   7722:68    warning  Do not access Object.prototype method 'isPrototypeOf' from target object   no-prototype-builtins
+   7728:64    warning  Do not access Object.prototype method 'isPrototypeOf' from target object   no-prototype-builtins
+   7739:70    warning  Do not access Object.prototype method 'isPrototypeOf' from target object   no-prototype-builtins
+   7968:35    warning  'exports' is defined but never used                                        no-unused-vars
+   8062:1291  warning  'exports' is defined but never used                                        no-unused-vars
+   8315:52    warning  'exports' is defined but never used                                        no-unused-vars
+   8894:91    warning  'exports' is defined but never used                                        no-unused-vars
+   9500:99    warning  'exports' is defined but never used                                        no-unused-vars
+  10134:91    warning  'exports' is defined but never used                                        no-unused-vars
+  10646:98    warning  'exports' is defined but never used                                        no-unused-vars
+  10977:63    warning  'exports' is defined but never used                                        no-unused-vars
+  11013:51    warning  'exports' is defined but never used                                        no-unused-vars
+  11234:35    warning  'exports' is defined but never used                                        no-unused-vars
+  11684:20    warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  11715:27    warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  11716:20    warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  11730:16    warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  11808:37    warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  11814:40    warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  11894:63    warning  'exports' is defined but never used                                        no-unused-vars
+  12395:67    warning  'exports' is defined but never used                                        no-unused-vars
+  13069:63    warning  'exports' is defined but never used                                        no-unused-vars
+  13340:63    warning  'exports' is defined but never used                                        no-unused-vars
+  14223:46    warning  'exports' is defined but never used                                        no-unused-vars
+  14299:63    warning  'exports' is defined but never used                                        no-unused-vars
+  14511:14    warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  14521:69    warning  'exports' is defined but never used                                        no-unused-vars
+  15814:118   warning  'exports' is defined but never used                                        no-unused-vars
+  16120:116   warning  '_dereq_' is defined but never used                                        no-unused-vars
+  16120:124   warning  'module' is defined but never used                                         no-unused-vars
+  16120:131   warning  'exports' is defined but never used                                        no-unused-vars
+  16129:28    warning  'element' is defined but never used                                        no-unused-vars
+  16203:35    warning  'exports' is defined but never used                                        no-unused-vars
+  16575:46    warning  'exports' is defined but never used                                        no-unused-vars
+  16971:63    warning  'exports' is defined but never used                                        no-unused-vars
+  17284:38    warning  'x2' is defined but never used                                             no-unused-vars
+  17284:42    warning  'y2' is defined but never used                                             no-unused-vars
+  17284:46    warning  'x3' is defined but never used                                             no-unused-vars
+  17284:50    warning  'y3' is defined but never used                                             no-unused-vars
+  17284:54    warning  'x4' is defined but never used                                             no-unused-vars
+  17284:58    warning  'y4' is defined but never used                                             no-unused-vars
+  17607:63    warning  'exports' is defined but never used                                        no-unused-vars
+  18200:52    warning  'exports' is defined but never used                                        no-unused-vars
+  18510:34    warning  'e' is defined but never used                                              no-unused-vars
+  18572:18    warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  18581:52    warning  'exports' is defined but never used                                        no-unused-vars
+  19347:75    warning  'exports' is defined but never used                                        no-unused-vars
+  19592:52    warning  'exports' is defined but never used                                        no-unused-vars
+  19593:10    warning  'ImageData' is already defined as a built-in global variable               no-redeclare
+  20195:35    warning  'exports' is defined but never used                                        no-unused-vars
+  20212:11    warning  'frames' is already defined as a built-in global variable                  no-redeclare
+  20212:11    warning  'frames' is defined but never used                                         no-unused-vars
+  20532:52    warning  'exports' is defined but never used                                        no-unused-vars
+  20994:137   warning  'exports' is defined but never used                                        no-unused-vars
+  21701:67    warning  'exports' is defined but never used                                        no-unused-vars
+  22318:90    warning  'exports' is defined but never used                                        no-unused-vars
+  22326:12    warning  'Request' is already defined as a built-in global variable                 no-redeclare
+  22589:47    warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  22831:18    warning  Unnecessary escape character: \"                                           no-useless-escape
+  22862:12    warning  Unexpected constant condition                                              no-constant-condition
+  23205:14    warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  23274:30    warning  'msg' is defined but never used                                            no-unused-vars
+  23446:31    warning  'object' is defined but never used                                         no-unused-vars
+  23446:39    warning  '_filename' is defined but never used                                      no-unused-vars
+  23446:50    warning  '_options' is defined but never used                                       no-unused-vars
+  23708:35    warning  Unnecessary escape character: \"                                           no-useless-escape
+  23708:49    warning  Unnecessary escape character: \"                                           no-useless-escape
+  23709:14    warning  Unnecessary escape character: \"                                           no-useless-escape
+  23709:39    warning  Unnecessary escape character: \"                                           no-useless-escape
+  23759:26    warning  Unnecessary escape character: \/                                           no-useless-escape
+  23761:17    warning  Unnecessary escape character: \/                                           no-useless-escape
+  23803:48    warning  Unnecessary escape character: \"                                           no-useless-escape
+  23803:61    warning  Unnecessary escape character: \"                                           no-useless-escape
+  23867:146   warning  'exports' is defined but never used                                        no-unused-vars
+  23913:22    warning  'rows' is defined but never used                                           no-unused-vars
+  24547:25    warning  Unnecessary escape character: \/                                           no-useless-escape
+  25026:52    warning  'exports' is defined but never used                                        no-unused-vars
+  25196:52    warning  'exports' is defined but never used                                        no-unused-vars
+  25995:52    warning  'exports' is defined but never used                                        no-unused-vars
+  26744:16    warning  'x' is defined but never used                                              no-unused-vars
+  26744:19    warning  'y' is defined but never used                                              no-unused-vars
+  26744:22    warning  'z' is defined but never used                                              no-unused-vars
+  26785:52    warning  'exports' is defined but never used                                        no-unused-vars
+  26819:52    warning  'exports' is defined but never used                                        no-unused-vars
+  27122:52    warning  'exports' is defined but never used                                        no-unused-vars
+  28177:96    warning  'exports' is defined but never used                                        no-unused-vars
+  28191:35    warning  'exports' is defined but never used                                        no-unused-vars
+  28438:52    warning  'exports' is defined but never used                                        no-unused-vars
+  28796:96    warning  'exports' is defined but never used                                        no-unused-vars
+  28847:35    warning  'horizAlign' is defined but never used                                     no-unused-vars
+  28847:47    warning  'vertAlign' is defined but never used                                      no-unused-vars
+  28880:37    warning  'theLeading' is defined but never used                                     no-unused-vars
+  28907:34    warning  'theSize' is defined but never used                                        no-unused-vars
+  28938:35    warning  'theStyle' is defined but never used                                       no-unused-vars
+  29041:52    warning  'exports' is defined but never used                                        no-unused-vars
+  29108:30    warning  'str' is defined but never used                                            no-unused-vars
+  29108:35    warning  'x' is defined but never used                                              no-unused-vars
+  29108:38    warning  'y' is defined but never used                                              no-unused-vars
+  29108:41    warning  'maxWidth' is defined but never used                                       no-unused-vars
+  29108:51    warning  'maxHeight' is defined but never used                                      no-unused-vars
+  29183:102   warning  'exports' is defined but never used                                        no-unused-vars
+  29305:31    warning  'gFontSize' is defined but never used                                      no-unused-vars
+  29823:5     warning  Unexpected newline between function and ( of function call                 no-unexpected-multiline
+  30076:9     warning  Unexpected newline between function and ( of function call                 no-unexpected-multiline
+  30257:75    warning  'exports' is defined but never used                                        no-unused-vars
+  30605:52    warning  'exports' is defined but never used                                        no-unused-vars
+  30876:52    warning  'exports' is defined but never used                                        no-unused-vars
+  31411:52    warning  'exports' is defined but never used                                        no-unused-vars
+  31580:52    warning  'exports' is defined but never used                                        no-unused-vars
+  31723:52    warning  'exports' is defined but never used                                        no-unused-vars
+  31739:52    warning  'exports' is defined but never used                                        no-unused-vars
+  31780:38    warning  'v1' is defined but never used                                             no-unused-vars
+  31780:42    warning  'v2' is defined but never used                                             no-unused-vars
+  31780:46    warning  'v3' is defined but never used                                             no-unused-vars
+  31780:50    warning  'a' is defined but never used                                              no-unused-vars
+  31846:54    warning  'a' is defined but never used                                              no-unused-vars
+  31846:57    warning  'x' is defined but never used                                              no-unused-vars
+  31846:60    warning  'y' is defined but never used                                              no-unused-vars
+  31846:63    warning  'z' is defined but never used                                              no-unused-vars
+  31876:5     warning  Unnecessary try/catch wrapper                                              no-useless-catch
+  31947:48    warning  'a' is defined but never used                                              no-unused-vars
+  31947:51    warning  'x' is defined but never used                                              no-unused-vars
+  31947:54    warning  'y' is defined but never used                                              no-unused-vars
+  31947:57    warning  'z' is defined but never used                                              no-unused-vars
+  31977:5     warning  Unnecessary try/catch wrapper                                              no-useless-catch
+  32008:52    warning  'exports' is defined but never used                                        no-unused-vars
+  32241:71    warning  'exports' is defined but never used                                        no-unused-vars
+  32488:41    warning  'v1' is defined but never used                                             no-unused-vars
+  32488:45    warning  'v2' is defined but never used                                             no-unused-vars
+  32488:49    warning  'v3' is defined but never used                                             no-unused-vars
+  32488:53    warning  'a' is defined but never used                                              no-unused-vars
+  32542:42    warning  'v1' is defined but never used                                             no-unused-vars
+  32542:46    warning  'v2' is defined but never used                                             no-unused-vars
+  32542:50    warning  'v3' is defined but never used                                             no-unused-vars
+  32542:54    warning  'a' is defined but never used                                              no-unused-vars
+  32570:53    warning  'v1' is defined but never used                                             no-unused-vars
+  32570:56    warning  'v2' is defined but never used                                             no-unused-vars
+  32570:59    warning  'v3' is defined but never used                                             no-unused-vars
+  32570:62    warning  'a' is defined but never used                                              no-unused-vars
+  32589:52    warning  'exports' is defined but never used                                        no-unused-vars
+  32769:52    warning  'exports' is defined but never used                                        no-unused-vars
+  33479:102   warning  'exports' is defined but never used                                        no-unused-vars
+  33552:16    warning  'isCurve' is defined but never used                                        no-unused-vars
+  33552:25    warning  'isBezier' is defined but never used                                       no-unused-vars
+  33552:34    warning  'isQuadratic' is defined but never used                                    no-unused-vars
+  33552:47    warning  'isContour' is defined but never used                                      no-unused-vars
+  33552:58    warning  'shapeKind' is defined but never used                                      no-unused-vars
+  33663:75    warning  'exports' is defined but never used                                        no-unused-vars
+  33822:52    warning  'exports' is defined but never used                                        no-unused-vars
+  34132:41    warning  'v1' is defined but never used                                             no-unused-vars
+  34132:45    warning  'v2' is defined but never used                                             no-unused-vars
+  34132:49    warning  'v3' is defined but never used                                             no-unused-vars
+  34132:53    warning  'a' is defined but never used                                              no-unused-vars
+  34160:43    warning  'r' is defined but never used                                              no-unused-vars
+  34160:46    warning  'g' is defined but never used                                              no-unused-vars
+  34160:49    warning  'b' is defined but never used                                              no-unused-vars
+  34160:52    warning  'a' is defined but never used                                              no-unused-vars
+  34312:108   warning  'exports' is defined but never used                                        no-unused-vars
+  34464:11    warning  'id' is assigned a value but never used                                    no-unused-vars
+  34898:42    warning  'x' is defined but never used                                              no-unused-vars
+  34898:45    warning  'y' is defined but never used                                              no-unused-vars
+  34898:48    warning  'z' is defined but never used                                              no-unused-vars
+  35104:71    warning  'exports' is defined but never used                                        no-unused-vars
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/p5.sound.js
+     3:39  warning  'define' is not defined                                                    no-undef
+     4:5   warning  'define' is not defined                                                    no-undef
+     6:13  warning  'require' is not defined                                                   no-undef
+    83:31  warning  'perf' is defined but never used                                           no-unused-vars
+    93:16  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+    93:64  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+    94:29  warning  'webkitAudioContext' is not defined                                        no-undef
+   100:56  warning  'AudioContext.prototype.createScriptProcessor' is assigned to itself       no-self-assign
+   199:16  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   199:71  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   200:36  warning  'webkitOfflineAudioContext' is not defined                                 no-undef
+   362:11  warning  'rampTime' is already defined                                              no-redeclare
+   363:11  warning  'tFromNow' is already defined                                              no-redeclare
+   529:18  warning  'path' is assigned to itself                                               no-self-assign
+   535:17  warning  'supported' is already defined                                             no-redeclare
+   541:24  warning  'i' is already defined                                                     no-redeclare
+   552:18  warning  'i' is already defined                                                     no-redeclare
+   553:15  warning  'extension' is already defined                                             no-redeclare
+   554:15  warning  'supported' is already defined                                             no-redeclare
+   562:16  warning  'i' is already defined                                                     no-redeclare
+   563:13  warning  'extension' is already defined                                             no-redeclare
+   564:13  warning  'supported' is already defined                                             no-redeclare
+   625:9   warning  'splitStack' is already defined                                            no-redeclare
+   642:42  warning  'numInputChannels' is defined but never used                               no-unused-vars
+   652:51  warning  'numChannels' is defined but never used                                    no-unused-vars
+   657:48  warning  'obj' is defined but never used                                            no-unused-vars
+   702:13  warning  Unexpected constant condition                                              no-constant-condition
+   714:48  warning  'obj' is defined but never used                                            no-unused-vars
+   906:9   warning  'loggedError' is assigned a value but never used                           no-unused-vars
+   927:21  warning  'e' is defined but never used                                              no-unused-vars
+   949:35  warning  'e' is defined but never used                                              no-unused-vars
+   962:11  warning  'self' is already defined                                                  no-redeclare
+  1017:9   warning  'time' is already defined                                                  no-redeclare
+  1028:13  warning  'now' is already defined                                                   no-redeclare
+  1084:34  warning  'e' is defined but never used                                              no-unused-vars
+  1106:11  warning  'cueEnd' is already defined                                                no-redeclare
+  1198:9   warning  'time' is already defined                                                  no-redeclare
+  1314:49  warning  Invalid typeof comparison value                                            valid-typeof
+  1319:23  warning  Empty block statement                                                      no-empty
+  1347:11  warning  'rampTime' is already defined                                              no-redeclare
+  1348:11  warning  'tFromNow' is already defined                                              no-redeclare
+  1469:11  warning  'cRate' is assigned a value but never used                                 no-unused-vars
+  1488:27  warning  'midiToFreq' is not defined                                                no-undef
+  1488:45  warning  'midiToFreq' is not defined                                                no-undef
+  1694:23  warning  Empty block statement                                                      no-empty
+  1731:16  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1748:47  warning  'smoothing' is defined but never used                                      no-unused-vars
+  1775:9   warning  Unexpected negating the left operand of 'instanceof' operator              no-unsafe-negation
+  1822:9   warning  'now' is assigned a value but never used                                   no-unused-vars
+  1875:11  warning  'data' is assigned a value but never used                                  no-unused-vars
+  1945:76  warning  'p' is defined but never used                                              no-unused-vars
+  1966:53  warning  'i' is defined but never used                                              no-unused-vars
+  1967:7   warning  Unnecessary try/catch wrapper                                              no-useless-catch
+  2001:13  warning  'dif' is assigned a value but never used                                   no-unused-vars
+  2121:34  warning  Empty block statement                                                      no-empty
+  2297:16  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2306:49  warning  'unit' is defined but never used                                           no-unused-vars
+  2611:11  warning  'normalArray' is already defined                                           no-redeclare
+  2612:16  warning  'i' is already defined                                                     no-redeclare
+  2691:9   warning  'bins' is assigned a value but never used                                  no-unused-vars
+  2904:9   warning  'N' is already defined                                                     no-redeclare
+  2966:9   warning  'N' is already defined                                                     no-redeclare
+  2968:9   warning  'fCtr0' is already defined                                                 no-redeclare
+  3412:1   warning  'Tone_signal_SignalBase' is assigned a value but never used                no-unused-vars
+  3532:56  warning  Unnecessary escape character: \:                                           no-useless-escape
+  3693:51  warning  Unnecessary escape character: \(                                           no-useless-escape
+  3693:53  warning  Unnecessary escape character: \)                                           no-useless-escape
+  3715:39  warning  Unnecessary escape character: \(                                           no-useless-escape
+  3715:41  warning  Unnecessary escape character: \)                                           no-useless-escape
+  3715:45  warning  Unnecessary escape character: \+                                           no-useless-escape
+  3715:47  warning  Unnecessary escape character: \/                                           no-useless-escape
+  3715:49  warning  Unnecessary escape character: \*                                           no-useless-escape
+  4082:1   warning  'Tone_core_Gain' is assigned a value but never used                        no-unused-vars
+  4399:7   warning  'Signal' is assigned a value but never used                                no-unused-vars
+  4471:11  warning  'f' is already defined                                                     no-redeclare
+  4483:9   warning  'o' is assigned a value but never used                                     no-unused-vars
+  4577:11  warning  'rampTime' is already defined                                              no-redeclare
+  4578:11  warning  'tFromNow' is already defined                                              no-redeclare
+  4621:11  warning  'rampTime' is already defined                                              no-redeclare
+  4622:11  warning  'tFromNow' is already defined                                              no-redeclare
+  4676:21  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4689:50  warning  'unit' is defined but never used                                           no-unused-vars
+  5315:9   warning  'now' is assigned a value but never used                                   no-unused-vars
+  5590:41  warning  'unit' is defined but never used                                           no-unused-vars
+  5664:9   warning  'now' is assigned a value but never used                                   no-unused-vars
+  5666:9   warning  'susTime' is already defined                                               no-redeclare
+  5984:43  warning  'unit' is defined but never used                                           no-unused-vars
+  6044:9   warning  'now' is assigned a value but never used                                   no-unused-vars
+  6049:17  warning  Empty block statement                                                      no-empty
+  6052:7   warning  'mathOps' is not defined                                                   no-undef
+  6199:11  warning  'rampTime' is already defined                                              no-redeclare
+  6200:11  warning  'tFromNow' is already defined                                              no-redeclare
+  6422:7   warning  'CustomError' is assigned a value but never used                           no-unused-vars
+  6486:12  warning  Empty block statement                                                      no-empty
+  6578:16  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  6580:23  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  6920:7   warning  'freq' is not defined                                                      no-undef
+  6946:9   warning  'rampTime' is already defined                                              no-redeclare
+  6947:9   warning  'tFromNow' is already defined                                              no-redeclare
+  7024:7   warning  'Filter' is assigned a value but never used                                no-unused-vars
+  7260:9   warning  'rampTime' is already defined                                              no-redeclare
+  7261:9   warning  'tFromNow' is already defined                                              no-redeclare
+  7429:9   warning  'rampTime' is already defined                                              no-redeclare
+  7430:9   warning  'tFromNow' is already defined                                              no-redeclare
+  7643:9   warning  'path' is already defined                                                  no-redeclare
+  7664:19  warning  'e' is defined but never used                                              no-unused-vars
+  7686:33  warning  'e' is defined but never used                                              no-unused-vars
+  7827:1   warning  'Tone_core_TimelineState' is assigned a value but never used               no-unused-vars
+  7986:7   warning  'ac' is assigned a value but never used                                    no-unused-vars
+  8030:9   warning  'rampTime' is already defined                                              no-redeclare
+  8035:41  warning  'tempo' is defined but never used                                          no-unused-vars
+  8837:7   warning  'p5sound' is assigned a value but never used                               no-unused-vars
+  8929:9   warning  'framesPerPeak' is defined but never used                                  no-unused-vars
+  9174:9   warning  'rampTime' is already defined                                              no-redeclare
+  9175:9   warning  'tFromNow' is already defined                                              no-redeclare
+  9332:1   warning  'src_app' is assigned a value but never used                               no-unused-vars
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/page1.js
+   1:5   warning  'showCodeBlock' is assigned a value but never used  no-unused-vars
+   2:10  warning  'runPage1' is defined but never used                no-unused-vars
+   3:3   warning  'background' is not defined                         no-undef
+   5:3   warning  'stroke' is not defined                             no-undef
+   6:3   warning  'fill' is not defined                               no-undef
+   8:3   warning  'push' is not defined                               no-undef
+  10:3   warning  'pop' is not defined                                no-undef
+  12:3   warning  'push' is not defined                               no-undef
+  13:3   warning  'stroke' is not defined                             no-undef
+  15:5   warning  'point' is not defined                              no-undef
+  19:5   warning  'point' is not defined                              no-undef
+  22:3   warning  'pop' is not defined                                no-undef
+  24:3   warning  'F0' is not defined                                 no-undef
+  24:8   warning  '$' is not defined                                  no-undef
+  25:1   warning  'w' is not defined                                  no-undef
+  25:5   warning  '$' is not defined                                  no-undef
+  26:1   warning  'k1' is not defined                                 no-undef
+  26:6   warning  '$' is not defined                                  no-undef
+  27:1   warning  'm1' is not defined                                 no-undef
+  27:6   warning  '$' is not defined                                  no-undef
+  28:1   warning  'k2' is not defined                                 no-undef
+  28:6   warning  '$' is not defined                                  no-undef
+  29:1   warning  'm2' is not defined                                 no-undef
+  29:6   warning  '$' is not defined                                  no-undef
+  31:3   warning  'spring1' is not defined                            no-undef
+  31:22  warning  'F0' is not defined                                 no-undef
+  31:26  warning  'w' is not defined                                  no-undef
+  31:29  warning  'k1' is not defined                                 no-undef
+  31:33  warning  'm1' is not defined                                 no-undef
+  31:37  warning  'k2' is not defined                                 no-undef
+  31:41  warning  'm2' is not defined                                 no-undef
+  32:3   warning  'spring1' is not defined                            no-undef
+  32:18  warning  't' is not defined                                  no-undef
+  32:21  warning  'factor' is not defined                             no-undef
+  33:3   warning  'spring1' is not defined                            no-undef
+  35:3   warning  'position_graph1' is not defined                    no-undef
+  35:26  warning  'spring1' is not defined                            no-undef
+  36:3   warning  'position_graph1' is not defined                    no-undef
+  38:3   warning  'position_graph2' is not defined                    no-undef
+  38:26  warning  'spring1' is not defined                            no-undef
+  39:3   warning  'position_graph2' is not defined                    no-undef
+  41:3   warning  'strokeWeight' is not defined                       no-undef
+  44:43  warning  'spring1' is not defined                            no-undef
+  45:43  warning  'spring1' is not defined                            no-undef
+  46:45  warning  'spring1' is not defined                            no-undef
+  46:57  warning  'spring1' is not defined                            no-undef
+  47:45  warning  'spring1' is not defined                            no-undef
+  47:57  warning  'spring1' is not defined                            no-undef
+  48:44  warning  'abs' is not defined                                no-undef
+  48:48  warning  'spring1' is not defined                            no-undef
+  49:44  warning  'abs' is not defined                                no-undef
+  49:48  warning  'spring1' is not defined                            no-undef
+  50:46  warning  'spring1' is not defined                            no-undef
+  50:59  warning  'spring1' is not defined                            no-undef
+  51:46  warning  'abs' is not defined                                no-undef
+  51:50  warning  'spring1' is not defined                            no-undef
+  51:64  warning  'spring1' is not defined                            no-undef
+  51:77  warning  'spring1' is not defined                            no-undef
+  52:46  warning  'abs' is not defined                                no-undef
+  52:50  warning  'spring1' is not defined                            no-undef
+  52:64  warning  'spring1' is not defined                            no-undef
+  52:77  warning  'spring1' is not defined                            no-undef
+  53:1   warning  'strokeWeight' is not defined                       no-undef
+  56:3   warning  'line' is not defined                               no-undef
+  57:5   warning  'spring1' is not defined                            no-undef
+  58:5   warning  'spring1' is not defined                            no-undef
+  59:5   warning  'position_graph1' is not defined                    no-undef
+  60:5   warning  'position_graph1' is not defined                    no-undef
+  62:3   warning  'line' is not defined                               no-undef
+  63:5   warning  'spring1' is not defined                            no-undef
+  64:5   warning  'spring1' is not defined                            no-undef
+  65:5   warning  'position_graph2' is not defined                    no-undef
+  66:5   warning  'position_graph2' is not defined                    no-undef
+  69:3   warning  't' is not defined                                  no-undef
+  69:7   warning  't' is not defined                                  no-undef
+  69:11  warning  'dt' is not defined                                 no-undef
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/page2.js
+   1:10  warning  'runPage2' is defined but never used  no-unused-vars
+   2:3   warning  'background' is not defined           no-undef
+   4:3   warning  'spring1' is not defined              no-undef
+   4:22  warning  'F0' is not defined                   no-undef
+   4:26  warning  'w' is not defined                    no-undef
+   4:29  warning  'k1' is not defined                   no-undef
+   4:33  warning  'm1' is not defined                   no-undef
+   4:37  warning  'k2' is not defined                   no-undef
+   4:41  warning  'm2' is not defined                   no-undef
+   5:3   warning  'spring1' is not defined              no-undef
+   5:18  warning  't' is not defined                    no-undef
+   5:21  warning  'factor' is not defined               no-undef
+   6:3   warning  'spring1' is not defined              no-undef
+  13:3   warning  'stroke' is not defined               no-undef
+  14:3   warning  'fill' is not defined                 no-undef
+  15:45  warning  'spring1' is not defined              no-undef
+  16:45  warning  'spring1' is not defined              no-undef
+  17:47  warning  'spring1' is not defined              no-undef
+  17:59  warning  'spring1' is not defined              no-undef
+  18:47  warning  'spring1' is not defined              no-undef
+  18:59  warning  'spring1' is not defined              no-undef
+  19:46  warning  'abs' is not defined                  no-undef
+  19:50  warning  'spring1' is not defined              no-undef
+  20:46  warning  'abs' is not defined                  no-undef
+  20:50  warning  'spring1' is not defined              no-undef
+  21:48  warning  'spring1' is not defined              no-undef
+  21:61  warning  'spring1' is not defined              no-undef
+  22:48  warning  'abs' is not defined                  no-undef
+  22:52  warning  'spring1' is not defined              no-undef
+  22:66  warning  'spring1' is not defined              no-undef
+  22:79  warning  'spring1' is not defined              no-undef
+  23:48  warning  'abs' is not defined                  no-undef
+  23:52  warning  'spring1' is not defined              no-undef
+  23:66  warning  'spring1' is not defined              no-undef
+  23:79  warning  'spring1' is not defined              no-undef
+  25:3   warning  'F0' is not defined                   no-undef
+  25:8   warning  '$' is not defined                    no-undef
+  26:3   warning  'w' is not defined                    no-undef
+  26:7   warning  '$' is not defined                    no-undef
+  27:3   warning  'k1' is not defined                   no-undef
+  27:8   warning  '$' is not defined                    no-undef
+  28:3   warning  'm1' is not defined                   no-undef
+  28:8   warning  '$' is not defined                    no-undef
+  29:3   warning  'k2' is not defined                   no-undef
+  29:8   warning  '$' is not defined                    no-undef
+  30:3   warning  'm2' is not defined                   no-undef
+  30:8   warning  '$' is not defined                    no-undef
+  31:3   warning  'push' is not defined                 no-undef
+  34:3   warning  'magFac1' is not defined              no-undef
+  35:3   warning  'magFac1' is not defined              no-undef
+  37:3   warning  't' is not defined                    no-undef
+  37:7   warning  't' is not defined                    no-undef
+  37:11  warning  'dt' is not defined                   no-undef
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/page3.js
+   1:10  warning  'runPage3' is defined but never used  no-unused-vars
+   2:3   warning  'background' is not defined           no-undef
+   5:3   warning  'stroke' is not defined               no-undef
+   6:3   warning  'fill' is not defined                 no-undef
+   8:3   warning  'push' is not defined                 no-undef
+  16:3   warning  'pop' is not defined                  no-undef
+  17:3   warning  'spring1' is not defined              no-undef
+  17:22  warning  'F0' is not defined                   no-undef
+  17:26  warning  'w' is not defined                    no-undef
+  17:29  warning  'k1' is not defined                   no-undef
+  17:33  warning  'm1' is not defined                   no-undef
+  17:37  warning  'k2' is not defined                   no-undef
+  17:41  warning  'm2' is not defined                   no-undef
+  18:3   warning  'spring1' is not defined              no-undef
+  18:18  warning  't' is not defined                    no-undef
+  18:21  warning  'factor' is not defined               no-undef
+  19:3   warning  'spring1' is not defined              no-undef
+  26:3   warning  'stroke' is not defined               no-undef
+  27:3   warning  'fill' is not defined                 no-undef
+  28:45  warning  'spring1' is not defined              no-undef
+  29:45  warning  'spring1' is not defined              no-undef
+  30:47  warning  'spring1' is not defined              no-undef
+  30:59  warning  'spring1' is not defined              no-undef
+  31:47  warning  'spring1' is not defined              no-undef
+  31:59  warning  'spring1' is not defined              no-undef
+  32:46  warning  'abs' is not defined                  no-undef
+  32:50  warning  'spring1' is not defined              no-undef
+  33:46  warning  'abs' is not defined                  no-undef
+  33:50  warning  'spring1' is not defined              no-undef
+  34:48  warning  'spring1' is not defined              no-undef
+  34:61  warning  'spring1' is not defined              no-undef
+  35:48  warning  'abs' is not defined                  no-undef
+  35:52  warning  'spring1' is not defined              no-undef
+  35:66  warning  'spring1' is not defined              no-undef
+  35:79  warning  'spring1' is not defined              no-undef
+  36:48  warning  'abs' is not defined                  no-undef
+  36:52  warning  'spring1' is not defined              no-undef
+  36:66  warning  'spring1' is not defined              no-undef
+  36:79  warning  'spring1' is not defined              no-undef
+  38:3   warning  'F0' is not defined                   no-undef
+  38:8   warning  '$' is not defined                    no-undef
+  39:3   warning  'w' is not defined                    no-undef
+  39:7   warning  '$' is not defined                    no-undef
+  40:3   warning  'k1' is not defined                   no-undef
+  40:8   warning  '$' is not defined                    no-undef
+  41:3   warning  'm1' is not defined                   no-undef
+  41:8   warning  '$' is not defined                    no-undef
+  42:3   warning  'k2' is not defined                   no-undef
+  42:8   warning  '$' is not defined                    no-undef
+  43:3   warning  'm2' is not defined                   no-undef
+  43:8   warning  '$' is not defined                    no-undef
+  44:3   warning  'push' is not defined                 no-undef
+  47:3   warning  'magFac2' is not defined              no-undef
+  48:3   warning  'magFac2' is not defined              no-undef
+  50:3   warning  't' is not defined                    no-undef
+  50:7   warning  't' is not defined                    no-undef
+  50:11  warning  'dt' is not defined                   no-undef
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/script.js
+   3:7   warning  'ctx' is assigned a value but never used  no-unused-vars
+   7:10  warning  'varinit' is defined but never used       no-unused-vars
+  10:3   warning  '$' is not defined                        no-undef
+  11:3   warning  '$' is not defined                        no-undef
+  13:3   warning  '$' is not defined                        no-undef
+  14:3   warning  '$' is not defined                        no-undef
+  16:3   warning  '$' is not defined                        no-undef
+  17:3   warning  '$' is not defined                        no-undef
+  19:3   warning  '$' is not defined                        no-undef
+  20:3   warning  '$' is not defined                        no-undef
+  23:3   warning  '$' is not defined                        no-undef
+  24:3   warning  '$' is not defined                        no-undef
+  26:3   warning  '$' is not defined                        no-undef
+  27:5   warning  '$' is not defined                        no-undef
+  28:5   warning  'time' is not defined                     no-undef
+  31:3   warning  '$' is not defined                        no-undef
+  32:5   warning  '$' is not defined                        no-undef
+  33:5   warning  'time' is not defined                     no-undef
+  36:3   warning  '$' is not defined                        no-undef
+  40:3   warning  '$' is not defined                        no-undef
+  41:3   warning  '$' is not defined                        no-undef
+  43:3   warning  '$' is not defined                        no-undef
+  44:5   warning  '$' is not defined                        no-undef
+  45:5   warning  'time' is not defined                     no-undef
+  48:3   warning  '$' is not defined                        no-undef
+  49:5   warning  '$' is not defined                        no-undef
+  50:5   warning  'time' is not defined                     no-undef
+  53:3   warning  '$' is not defined                        no-undef
+  56:3   warning  '$' is not defined                        no-undef
+  60:3   warning  '$' is not defined                        no-undef
+  61:3   warning  '$' is not defined                        no-undef
+  63:3   warning  '$' is not defined                        no-undef
+  64:5   warning  '$' is not defined                        no-undef
+  65:5   warning  'time' is not defined                     no-undef
+  68:3   warning  '$' is not defined                        no-undef
+  69:5   warning  '$' is not defined                        no-undef
+  70:5   warning  'time' is not defined                     no-undef
+  73:3   warning  '$' is not defined                        no-undef
+  76:3   warning  '$' is not defined                        no-undef
+  77:3   warning  '$' is not defined                        no-undef
+  80:3   warning  '$' is not defined                        no-undef
+  80:38  warning  '$' is not defined                        no-undef
+  81:3   warning  '$' is not defined                        no-undef
+  81:40  warning  '$' is not defined                        no-undef
+  82:3   warning  '$' is not defined                        no-undef
+  82:38  warning  '$' is not defined                        no-undef
+  83:3   warning  'endmass' is not defined                  no-undef
+  83:13  warning  '$' is not defined                        no-undef
+  84:3   warning  'beamlength' is not defined               no-undef
+  84:16  warning  '$' is not defined                        no-undef
+  85:3   warning  'dampingratio' is not defined             no-undef
+  85:18  warning  '$' is not defined                        no-undef
+  87:3   warning  Unnecessary semicolon                     no-extra-semi
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/script1.js
+    1:5   warning  'F0' is assigned a value but never used  no-unused-vars
+    1:9   warning  'w' is assigned a value but never used   no-unused-vars
+    1:12  warning  'k1' is assigned a value but never used  no-unused-vars
+    1:16  warning  'm1' is assigned a value but never used  no-unused-vars
+    1:20  warning  'k2' is assigned a value but never used  no-unused-vars
+    1:24  warning  'm2' is assigned a value but never used  no-unused-vars
+    3:10  warning  'startsim' is defined but never used     no-unused-vars
+   10:10  warning  'simstate' is defined but never used     no-unused-vars
+   20:5   warning  'simstatus' is not defined               no-undef
+   21:5   warning  'pauseTime' is not defined               no-undef
+   27:5   warning  'simstatus' is not defined               no-undef
+   28:19  warning  'pauseTime' is not defined               no-undef
+   29:5   warning  'time' is not defined                    no-undef
+   52:10  warning  'varinit' is defined but never used      no-unused-vars
+   56:3   warning  '$' is not defined                       no-undef
+   60:3   warning  '$' is not defined                       no-undef
+   64:3   warning  '$' is not defined                       no-undef
+   68:3   warning  '$' is not defined                       no-undef
+   72:3   warning  '$' is not defined                       no-undef
+   76:3   warning  '$' is not defined                       no-undef
+   81:5   warning  '$' is not defined                       no-undef
+   82:5   warning  '$' is not defined                       no-undef
+   84:5   warning  '$' is not defined                       no-undef
+   85:5   warning  '$' is not defined                       no-undef
+   87:5   warning  '$' is not defined                       no-undef
+   88:5   warning  '$' is not defined                       no-undef
+   90:5   warning  '$' is not defined                       no-undef
+   91:5   warning  '$' is not defined                       no-undef
+   93:5   warning  '$' is not defined                       no-undef
+   94:5   warning  '$' is not defined                       no-undef
+   96:5   warning  '$' is not defined                       no-undef
+   97:5   warning  '$' is not defined                       no-undef
+  107:3   warning  '$' is not defined                       no-undef
+  110:3   warning  '$' is not defined                       no-undef
+  113:3   warning  '$' is not defined                       no-undef
+  114:5   warning  '$' is not defined                       no-undef
+  115:5   warning  'ptx' is not defined                     no-undef
+  116:5   warning  'pty' is not defined                     no-undef
+  118:3   warning  '$' is not defined                       no-undef
+  119:5   warning  '$' is not defined                       no-undef
+  120:5   warning  'ptx' is not defined                     no-undef
+  121:5   warning  'pty' is not defined                     no-undef
+  123:3   warning  '$' is not defined                       no-undef
+  127:3   warning  '$' is not defined                       no-undef
+  130:3   warning  '$' is not defined                       no-undef
+  133:3   warning  '$' is not defined                       no-undef
+  134:5   warning  '$' is not defined                       no-undef
+  135:5   warning  'ptx' is not defined                     no-undef
+  136:5   warning  'pty' is not defined                     no-undef
+  138:3   warning  '$' is not defined                       no-undef
+  139:5   warning  '$' is not defined                       no-undef
+  140:5   warning  'ptx' is not defined                     no-undef
+  141:5   warning  'pty' is not defined                     no-undef
+  143:3   warning  '$' is not defined                       no-undef
+  147:3   warning  '$' is not defined                       no-undef
+  149:3   warning  '$' is not defined                       no-undef
+  152:3   warning  '$' is not defined                       no-undef
+  153:5   warning  '$' is not defined                       no-undef
+  154:5   warning  'ptx' is not defined                     no-undef
+  155:5   warning  'pty' is not defined                     no-undef
+  157:3   warning  '$' is not defined                       no-undef
+  158:5   warning  '$' is not defined                       no-undef
+  159:5   warning  'ptx' is not defined                     no-undef
+  160:5   warning  'pty' is not defined                     no-undef
+  162:3   warning  '$' is not defined                       no-undef
+  166:3   warning  '$' is not defined                       no-undef
+  168:3   warning  '$' is not defined                       no-undef
+  171:3   warning  '$' is not defined                       no-undef
+  172:5   warning  '$' is not defined                       no-undef
+  173:5   warning  'ptx' is not defined                     no-undef
+  174:5   warning  'pty' is not defined                     no-undef
+  176:3   warning  '$' is not defined                       no-undef
+  177:5   warning  '$' is not defined                       no-undef
+  178:5   warning  'ptx' is not defined                     no-undef
+  179:5   warning  'pty' is not defined                     no-undef
+  181:3   warning  '$' is not defined                       no-undef
+  185:3   warning  '$' is not defined                       no-undef
+  187:3   warning  '$' is not defined                       no-undef
+  190:3   warning  '$' is not defined                       no-undef
+  191:5   warning  '$' is not defined                       no-undef
+  192:5   warning  'ptx' is not defined                     no-undef
+  193:5   warning  'pty' is not defined                     no-undef
+  195:3   warning  '$' is not defined                       no-undef
+  196:5   warning  '$' is not defined                       no-undef
+  197:5   warning  'ptx' is not defined                     no-undef
+  198:5   warning  'pty' is not defined                     no-undef
+  200:3   warning  '$' is not defined                       no-undef
+  204:3   warning  '$' is not defined                       no-undef
+  206:3   warning  '$' is not defined                       no-undef
+  209:3   warning  '$' is not defined                       no-undef
+  210:5   warning  '$' is not defined                       no-undef
+  211:5   warning  'ptx' is not defined                     no-undef
+  212:5   warning  'pty' is not defined                     no-undef
+  214:3   warning  '$' is not defined                       no-undef
+  215:5   warning  '$' is not defined                       no-undef
+  216:5   warning  'ptx' is not defined                     no-undef
+  217:5   warning  'pty' is not defined                     no-undef
+  219:3   warning  '$' is not defined                       no-undef
+  227:17  warning  '$' is not defined                       no-undef
+  230:5   warning  '$' is not defined                       no-undef
+  235:3   warning  '$' is not defined                       no-undef
+  235:33  warning  '$' is not defined                       no-undef
+  236:3   warning  '$' is not defined                       no-undef
+  236:37  warning  '$' is not defined                       no-undef
+  237:3   warning  '$' is not defined                       no-undef
+  237:34  warning  '$' is not defined                       no-undef
+  238:3   warning  '$' is not defined                       no-undef
+  238:34  warning  '$' is not defined                       no-undef
+  239:3   warning  '$' is not defined                       no-undef
+  239:34  warning  '$' is not defined                       no-undef
+  240:3   warning  '$' is not defined                       no-undef
+  240:34  warning  '$' is not defined                       no-undef
+  241:8   warning  '$' is not defined                       no-undef
+  242:7   warning  '$' is not defined                       no-undef
+  243:8   warning  '$' is not defined                       no-undef
+  244:8   warning  '$' is not defined                       no-undef
+  245:8   warning  '$' is not defined                       no-undef
+  246:8   warning  '$' is not defined                       no-undef
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/script2.js
+  168:10  error  Parsing error: Identifier 'screenchangef' has already been declared
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/sketch.js
+    4:5   warning  'width' is assigned a value but never used            no-unused-vars
+    5:5   warning  'height' is assigned a value but never used           no-unused-vars
+    8:5   warning  't' is assigned a value but never used                no-unused-vars
+    9:5   warning  'dt' is assigned a value but never used               no-unused-vars
+   12:5   warning  'spring1' is assigned a value but never used          no-unused-vars
+   15:5   warning  'position_graph1' is assigned a value but never used  no-unused-vars
+   16:5   warning  'position_graph2' is assigned a value but never used  no-unused-vars
+   17:5   warning  'magFac' is defined but never used                    no-unused-vars
+   35:5   warning  'factor' is assigned a value but never used           no-unused-vars
+   38:5   warning  'img' is defined but never used                       no-unused-vars
+   39:5   warning  'button1' is defined but never used                   no-unused-vars
+   40:5   warning  'button2' is defined but never used                   no-unused-vars
+   41:5   warning  'button3' is defined but never used                   no-unused-vars
+   42:5   warning  'button4' is defined but never used                   no-unused-vars
+   43:5   warning  'button5' is defined but never used                   no-unused-vars
+   44:5   warning  'spr' is assigned a value but never used              no-unused-vars
+   54:5   warning  'touch' is assigned a value but never used            no-unused-vars
+   57:5   warning  'clear' is defined but never used                     no-unused-vars
+   59:10  warning  'preload' is defined but never used                   no-unused-vars
+   65:9   warning  'loadImage' is not defined                            no-undef
+   68:10  warning  'setup' is defined but never used                     no-unused-vars
+   75:22  warning  'createCanvas' is not defined                         no-undef
+   78:17  warning  'System' is not defined                               no-undef
+   80:25  warning  'Graph' is not defined                                no-undef
+   82:25  warning  'Graph' is not defined                                no-undef
+   84:17  warning  'DynamicGraph' is not defined                         no-undef
+   95:5   warning  'System' is not defined                               no-undef
+   97:17  warning  'DynamicGraph' is not defined                         no-undef
+  108:5   warning  'System' is not defined                               no-undef
+  120:3   warning  'varinit' is not defined                              no-undef
+  121:3   warning  'F0' is not defined                                   no-undef
+  121:8   warning  '$' is not defined                                    no-undef
+  122:3   warning  'w' is not defined                                    no-undef
+  122:7   warning  '$' is not defined                                    no-undef
+  123:3   warning  'k1' is not defined                                   no-undef
+  123:8   warning  '$' is not defined                                    no-undef
+  124:3   warning  'm1' is not defined                                   no-undef
+  124:8   warning  '$' is not defined                                    no-undef
+  125:3   warning  'k2' is not defined                                   no-undef
+  125:8   warning  '$' is not defined                                    no-undef
+  126:3   warning  'm2' is not defined                                   no-undef
+  126:8   warning  '$' is not defined                                    no-undef
+  134:10  warning  'draw' is defined but never used                      no-unused-vars
+  136:5   warning  'runPage1' is not defined                             no-undef
+  140:5   warning  'runPage2' is not defined                             no-undef
+  144:5   warning  'runPage3' is not defined                             no-undef
+  149:10  warning  'simstate' is defined but never used                  no-unused-vars
+  151:3   warning  'imgfilename' is assigned a value but never used      no-unused-vars
+  157:5   warning  'noLoop' is not defined                               no-undef
+  162:5   warning  'loop' is not defined                                 no-undef
+  169:10  warning  'graphPlot' is defined but never used                 no-unused-vars
+  183:10  warning  'screenchangeMag' is defined but never used           no-unused-vars
+  191:10  warning  'screenChangePrevious' is defined but never used      no-unused-vars
+
+/home/runner/work/exp-forced-vibration-nitk/exp-forced-vibration-nitk/experiment/simulation/js/system.js
+    1:7   warning  'System' is defined but never used  no-unused-vars
+   66:5   warning  'push' is not defined               no-undef
+   68:15  warning  'spr' is not defined                no-undef
+   69:15  warning  'spr' is not defined                no-undef
+   72:5   warning  'image' is not defined              no-undef
+   73:7   warning  'spr' is not defined                no-undef
+   79:5   warning  'fill' is not defined               no-undef
+   80:5   warning  'textSize' is not defined           no-undef
+   81:5   warning  'text' is not defined               no-undef
+   87:5   warning  'image' is not defined              no-undef
+   88:7   warning  'spr' is not defined                no-undef
+   96:5   warning  'fill' is not defined               no-undef
+   97:5   warning  'textSize' is not defined           no-undef
+   98:5   warning  'text' is not defined               no-undef
+  105:5   warning  'rectMode' is not defined           no-undef
+  105:14  warning  'CENTER' is not defined             no-undef
+  106:5   warning  'fill' is not defined               no-undef
+  107:5   warning  'rect' is not defined               no-undef
+  110:5   warning  'rect' is not defined               no-undef
+  111:5   warning  'stroke' is not defined             no-undef
+  112:5   warning  'strokeWeight' is not defined       no-undef
+  113:5   warning  'fill' is not defined               no-undef
+  114:5   warning  'rectMode' is not defined           no-undef
+  114:14  warning  'CENTER' is not defined             no-undef
+  115:5   warning  'fill' is not defined               no-undef
+  116:5   warning  'rect' is not defined               no-undef
+  122:5   warning  'fill' is not defined               no-undef
+  123:5   warning  'textSize' is not defined           no-undef
+  124:5   warning  'text' is not defined               no-undef
+  129:5   warning  'rectMode' is not defined           no-undef
+  129:14  warning  'CENTER' is not defined             no-undef
+  130:5   warning  'fill' is not defined               no-undef
+  131:5   warning  'rect' is not defined               no-undef
+  137:5   warning  'fill' is not defined               no-undef
+  138:5   warning  'textSize' is not defined           no-undef
+  139:5   warning  'text' is not defined               no-undef
+  148:5   warning  'pop' is not defined                no-undef
+  170:9   warning  'abs' is not defined                no-undef
+  171:14  warning  'abs' is not defined                no-undef
+  183:9   warning  'abs' is not defined                no-undef
+  184:14  warning  'abs' is not defined                no-undef
+
+✖ 1023 problems (2 errors, 1021 warnings)
+  0 errors and 3 warnings potentially fixable with the `--fix` option.
+

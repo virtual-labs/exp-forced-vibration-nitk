@@ -41,9 +41,9 @@ m2 = $("#m2Spinner").spinner("value");
   strokeWeight(0);
 
  
-document.getElementById("wd").textContent=spring1.w2.toFixed(4);
-document.getElementById("wn").textContent=spring1.w1.toFixed(4);
-document.getElementById("ww1").textContent=(spring1.w / spring1.w1).toFixed(4)
+document.getElementById("wd").textContent=spring1.w2.toFixed(4) + " rad/s";
+document.getElementById("wn").textContent=spring1.w1.toFixed(4) + " rad/s";
+document.getElementById("ww1").textContent=(spring1.w / spring1.w1).toFixed(4) + " rad/s";
 document.getElementById("wn1").textContent=(spring1.w / spring1.w2).toFixed(4)
 document.getElementById("x1").textContent= abs(spring1.x2).toFixed(4);
 document.getElementById("x2").textContent= abs(spring1.x1).toFixed(4);
